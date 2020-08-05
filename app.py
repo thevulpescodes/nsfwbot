@@ -38,3 +38,5 @@ async def on_message(message):
         print("Oof, tits gone wild. Something went wrong")
 
 client.run(TOKEN)
+
+# Made by Vulpes
